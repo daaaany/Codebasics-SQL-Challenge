@@ -8,5 +8,5 @@ I tried to write each SQL query very neatly and effectively so that everyone can
 During this project, first I used MySQL to do EDA and used Microsoft Excel to make visualization.
 
 In this whole project, tech stack I used:
-◾ MySQL
-◾ Microsoft Excel
+* MySQL
+* Microsoft Excel
